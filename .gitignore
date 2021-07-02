@@ -1,0 +1,15 @@
+.DS_Store
+
+# IdeaIDE
+.idea
+
+# VS Code
+.vscode
+
+log/*.log
+
+go.sum
+
+cli
+
+main
